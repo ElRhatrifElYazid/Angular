@@ -14,8 +14,7 @@
 <img src="angular/products.png">
 <img src="angular/new.png">
 <img src="angular/edit.png">
-utiliser les guards pour protéger les routes
-<img src="angular/guards.png">
+
 <img src="angular/use_guards.png">
 <img src="angular/notAuthorized.png">
 <img src="angular/Jwt1.png">
