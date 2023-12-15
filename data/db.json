@@ -1,0 +1,79 @@
+{
+  "users": [
+    {
+      "id": "Anas",
+      "password": "QW5hczIwMTI=",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJZYXppZCIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJmaXJzdG5hbWUiOiJZYXppZCIsImxhc3RuYW1lIjoiRWwgUmhhdHJpZiIsImVtYWlsIjoieWF6aWRtb3BAZ21haWwuY29tIiwicm9sZXMiOlsiVVNFUiJdfQ.5Gufpua_QoAMatc1fRO1o-MbcarLlMvBSret0w-L9vY"
+    },
+    {
+      "id": "Ayman",
+      "password": "QXltYW4yMDE2",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJZYXppZCIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJmaXJzdG5hbWUiOiJZYXppZCIsImxhc3RuYW1lIjoiRWwgUmhhdHJpZiIsImVtYWlsIjoieWF6aWRtb3BAZ21haWwuY29tIiwicm9sZXMiOlsiVVNFUiJdfQ.SJaMdJcLpCj9uMmg_k_T-pvN8F76TnmH11Ff-_S3uFs"
+    },
+    {
+      "id": "Yazid",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER",
+        "ADMIN"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJZYXppZCIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJmaXJzdG5hbWUiOiJZYXppZCIsImxhc3RuYW1lIjoiRWwgUmhhdHJpZiIsImVtYWlsIjoieWF6aWRtb3BAZ21haWwuY29tIiwicm9sZXMiOlsiVVNFUiIsIkFETUlOIl19.5FnZAW4x1uLE7cmmPg2wVCJZDu6UKdwHIw0HgVeXl_A"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Computer",
+      "price": 12000,
+      "checked": false
+    },
+    {
+      "id": 2,
+      "name": "Printer",
+      "price": 5000,
+      "checked": true
+    },
+    {
+      "id": 3,
+      "name": "Smart Phone",
+      "price": 2000,
+      "checked": true
+    },
+    {
+      "name": "Ipad",
+      "price": "20000",
+      "checked": true,
+      "id": 4
+    },
+    {
+      "id": 6,
+      "name": "Iphone",
+      "price": "15000",
+      "checked": true
+    },
+    {
+      "name": "PC",
+      "price": "1500",
+      "checked": false,
+      "id": 7
+    },
+    {
+      "name": "hhju",
+      "price": 0,
+      "checked": false,
+      "id": 8
+    },
+    {
+      "name": "Dell",
+      "price": "2000",
+      "checked": true,
+      "id": 9
+    }
+  ]
+}
