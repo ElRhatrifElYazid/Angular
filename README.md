@@ -4,7 +4,7 @@
 <p></p>
 <img src="angular/boot_css.png">
 <p></p>
-<img src="angular/jsnserver.png">
+
 <img src="angular/run_json.png">
 <img src="angular/jsonproducts.png">
 <img src="angular/routesApp.png">
